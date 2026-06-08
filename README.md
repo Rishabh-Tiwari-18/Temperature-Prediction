@@ -160,6 +160,3 @@ text temp_pred.ipynb
 - Deep Learning Approaches
 
 ---
-
-
-GitHub: https://github.com/Rishabh-Tiwari
